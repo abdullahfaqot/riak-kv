@@ -1,4 +1,4 @@
-# riak-kv
+# Riak-KV-Kelompok-3-IF-A
 Implementasi CRUD dengan menggunakan DBMS Riak-KV dan NodeJS
 Untuk memenuhi tugas akhir mata kuliah Manajemen Basis Data dan Praktikum Manajemen Basis Data
 
@@ -6,6 +6,8 @@ Anggota Kelompok 3:
 - Abdullah - 1207050001
 - Arham Syuhada - 1207050017
 - Ayuni Tia Sari - 1207050020
+
+Link Youtube :
 
 # Langkah Instalasi Riak-KV Menggunakan Docker
 1. Mendownload Docker
