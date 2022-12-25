@@ -8,7 +8,7 @@ Anggota Kelompok 3:
 - Arham Syuhada - 1207050017
 - Ayuni Tia Sari - 1207050020
 
-Link Youtube :
+Link Youtube : https://youtu.be/GrCpwJR-bLo
 
 # Langkah Instalasi Riak-KV Menggunakan Docker
 1. Mendownload Docker
